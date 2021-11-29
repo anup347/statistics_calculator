@@ -17,11 +17,8 @@ use App\Http\Controllers\Statistics\StatisticsController;
 */
 
 Route::get('/calculus', [CalculusController::class,'index'])->name('calculus.index');
-//Route::Post('/calculus', [CalculusController::class,'calculate']);
-
 
 Route::get('/statistics', [StatisticsController::class,'index'])->name('statistics.index');
-//Route::Post('/statistics', [StatisticsController::class,'calculate']);
 
 Route::get('/log', [LogController::class,'index'])->name('log.index');
 
