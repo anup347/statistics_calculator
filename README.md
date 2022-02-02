@@ -1,4 +1,4 @@
-# statistics_calculator - API tutorial Laravel 
+# Statistics Calculator - API tutorial Laravel 
 API calculate mean, median, or mode for a series of numbers given by the user
 Store log of each operation in a table
 API to perform ADD, SUBTRACT, DIVISION, MODULUS, and PRODUCT of two or more numbers given by the user
